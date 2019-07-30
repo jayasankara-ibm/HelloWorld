@@ -6,7 +6,7 @@ public class HelloWorld
     public HelloWorld() {}
 
     public static void main(String[] args) {
-        message = ;
+        message = "Failure";
         System.out.println("Jayasankara");
         System.out.println(new HelloWorld().getMessage());
     }
